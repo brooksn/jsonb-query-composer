@@ -1,0 +1,19 @@
+{
+  "name": "jsonb-query-composer",
+  "version": "0.0.1",
+  "description": "Compose json and jsonb queries for postgresql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brooksn/jsonb-query-composer.git"
+  },
+  "author": "Brooks Newberry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brooksn/jsonb-query-composer/issues"
+  },
+  "homepage": "https://github.com/brooksn/jsonb-query-composer#readme"
+}
